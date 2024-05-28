@@ -1,1 +1,1 @@
-I have just created the file to submit it to the edx.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
